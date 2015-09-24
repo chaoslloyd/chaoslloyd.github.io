@@ -1,6 +1,6 @@
 /*
 
-Created by R. Chase Southard on 2008-07-10.
+Created by Chase Southard on 2008-07-10.
 Copyright (c) 2008 Ross Whitaker. All rights reserved.
 
 */
@@ -75,7 +75,7 @@ body{
  	background: #2B0200;
 	padding: 1px;
 	border: 1px solid #330C03;
-	/*border: 2px solid #555; 
+	/*border: 2px solid #555;
 	padding: 5px;*/
 }
 #rightside a img{
@@ -128,11 +128,11 @@ margin: 0.2em 1em;
 /*background-color: #369;*/
 border-bottom:3px solid #fff;
 }
-	
+
 li a#current {
 	/*background-color: #B5A80C;*/
 	border-bottom:3px solid #fff;
-	
+
 }
 #productarea{
 	/*border-top:2px solid #F37E00;*/
